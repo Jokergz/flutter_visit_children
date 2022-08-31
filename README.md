@@ -1,6 +1,6 @@
-# flutter_visit_children
-
-A new Flutter project.
+<p align="center"><img src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/1.png"></p>
+<p align="center"><img src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/2.png"></p>
+<p align="center"><video src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/3.mov"></p>
 
 ## Getting Started
 
