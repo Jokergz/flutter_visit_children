@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/1.png"></p>
-<p align="center"><img src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/2.png"></p>
-<p align="center"><video src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/3.mov"></p>
+<img src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/1.png">
+<img src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/2.png">
+<video src="https://github.com/Jokergz/flutter_visit_children/blob/main/img/3.mov">
 
 ## Getting Started
 
